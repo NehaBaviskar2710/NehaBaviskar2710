@@ -10,6 +10,6 @@ Currently, I am enhancing my skills in [specific technology or framework], divin
 💞️ Collaboration
 I am looking to collaborate on exciting projects that involve:
 
-Web development using JavaScript frameworks (e.g., React, Angular)
+Web development using JavaScript framework (e.g., React)
 Back-end development with Java and Python
 Open-source contributions and community-driven initiatives
